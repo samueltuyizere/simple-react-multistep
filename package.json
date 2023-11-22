@@ -21,11 +21,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/srdjan/react-multistep"
+    "url": "https://github.com/samueltuyizere/simple-react-multistep"
   },
-  "homepage": "https://github.com/srdjan/react-multistep",
+  "homepage": "https://github.com/samueltuyizere/simple-react-multistep",
   "bugs": {
-    "url": "https://github.com/srdjan/react-multistep/issues"
+    "url": "https://github.com/samueltuyizere/simple-react-multistep/issues"
   },
   "dependencies": {
     "goober": "2.1.13"
