@@ -1,7 +1,7 @@
 {
   "name": "simple-react-multistep",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Responsive ReactJS multistep form component",
   "main": "dist/index.js",
   "files": [
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/samueltuyizere/simple-react-multistep"
+    "url": "git+https://github.com/samueltuyizere/simple-react-multistep.git"
   },
   "homepage": "https://github.com/samueltuyizere/simple-react-multistep",
   "bugs": {
