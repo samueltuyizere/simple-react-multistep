@@ -1,6 +1,7 @@
 {
   "name": "simple-react-multistep",
-  "version": "0.0.2",
+  "type": "module",
+  "version": "0.0.3",
   "description": "Responsive ReactJS multistep form component",
   "main": "dist/index.js",
   "files": [
