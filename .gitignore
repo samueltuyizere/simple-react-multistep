@@ -6,3 +6,4 @@ build
 example/bundle.js
 example/index.js
 storybook/
+bun.lockb
